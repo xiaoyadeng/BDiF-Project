@@ -4,7 +4,7 @@
 
 1.  http://spark.apache.org/examples.html
 
-2.  https://spark.apache.org/docs/0.9.1/scala-programming-guide.html
+2.  https://spark.apache.org/docs/0.9.1/scala-programming-guide.html    #Very helpful! Read again.
 
 3.  https://spark.apache.org/docs/0.9.1/python-programming-guide.html
 
